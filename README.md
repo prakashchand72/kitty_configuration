@@ -12,3 +12,6 @@ echo 'source ~/.local/share/blesh/ble.sh' >> ~/.bashrc
   chsh -s /bin/bash
 
 - to change to bash as default from zsh
+
+- 
+![Screenshot from 2024-09-05 06-40-07](https://github.com/user-attachments/assets/08fb5a63-8539-4ade-bbf1-badd26da6817)
